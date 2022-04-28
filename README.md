@@ -1,2 +1,2 @@
-# React_JS
-Created with CodeSandbox
+# React.JS
+learning with rendering
